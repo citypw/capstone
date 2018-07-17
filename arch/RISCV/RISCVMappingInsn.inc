@@ -9,7 +9,7 @@
 #endif
 	 },
 	{
-	 RISCV_ADDI, RISCV_INS_ADDI,
+	 RISCV_ADDI, RISCV_INS_ADD,
 #ifndef CAPSTONE_DIET
 	 {0}, {0}, {RISCV_GRP_RV32I, 0}, 0, 0
 #endif
