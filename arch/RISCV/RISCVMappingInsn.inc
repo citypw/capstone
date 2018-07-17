@@ -15,7 +15,7 @@
 #endif
 	 },
 	{
-	 RISCV_ADDIW, RISCV_INS_ADDIW,
+	 RISCV_ADDIW, RISCV_INS_ADDW,
 #ifndef CAPSTONE_DIET
 	 {0}, {0}, {RISCV_GRP_RV64I, 0}, 0, 0
 #endif

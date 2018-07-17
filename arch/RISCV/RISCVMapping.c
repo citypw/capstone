@@ -183,7 +183,7 @@ static const name_map insn_name_maps[] = {
 
 	{RISCV_INS_ADD, "add"},
 	{RISCV_INS_ADD, "addi"},
-	{RISCV_INS_ADDIW, "addiw"},
+	{RISCV_INS_ADDW, "addiw"},
 	{RISCV_INS_ADDW, "addw"},
 	{RISCV_INS_AMOADD_D, "amoadd.d"},
 	{RISCV_INS_AMOADD_D_AQ, "amoadd.d.aq"},
